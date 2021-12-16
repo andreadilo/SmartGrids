@@ -1,0 +1,15 @@
+These are the four different datasets that i am using in this Neural Network.
+They are composed as follows : 
+- Divided into four groups :
+  - df1 : with shape (968,51)
+  - df2 : with shape (968,51)
+  - df3 : with shape (968,51)
+  - df4 : with shape (968,51)
+  
+We obtained this dataset by injecting fault with different resistances on four different zones in the IEEE-13 distribution network with renewable energy. 
+The columns are : 
+ - voltage : signal measured
+ - measloc : zone from which the voltage has been measured (between 1 and 4 (IEEE-13))
+ - locLabel : zone in which the fault has been injected (1-4)
+ - resistance : shows the different number of resistances
+ - faultLabel : represents the type of the faults (11 types : ABC, ABCG, AB, AC, BC, ABG, ACG, BCG, AG, BG, CG)
