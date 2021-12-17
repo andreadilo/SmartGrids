@@ -16,3 +16,5 @@ The columns are :
  - locLabel : zone in which the fault has been injected (1-4)
  - resistance : shows the different number of resistances
  - faultLabel : represents the type of the faults (11 types : ABC, ABCG, AB, AC, BC, ABG, ACG, BCG, AG, BG, CG)
+
+![immagine](https://user-images.githubusercontent.com/96230284/146537458-0435e1cd-4161-4241-bae5-f50ab0d3dea8.png)
